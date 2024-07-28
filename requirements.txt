@@ -1,0 +1,4 @@
+pip install openpyxl
+pip install yt-dlp
+pip install nltk
+pip install ttkthemes
